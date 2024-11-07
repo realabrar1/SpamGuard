@@ -97,16 +97,3 @@ Bernoulli: Useful if your feature vectors are binary (i.e., zeros and ones). An 
 - [CampusX YouTube pandas playlist](https://youtube.com/playlist?list=PLfP3JxW-T70Gf4iJXPb0Yw5_-tDRCD6LB)
 - [CampusX Youtube Naive Bayes playlist](https://www.youtube.com/playlist?list=PLKnIA16_RmvZ67wQaHoBuzXaDAfPz-a6l)
 
-## License
-
-Spam Classifier is released under the [MIT License](https://github.com/FirdausJawed/Spam-Classifier/blob/main/LICENSE).
-
-## Connect with me
-Drop by and say hello!
-
-[<img height="30" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-
-[linkedIn]:https://www.linkedin.com/in/firdaus-jawed/
-
-[twitter]: https://twitter.com/jawedfirdaus01
